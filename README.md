@@ -3,7 +3,7 @@
 
 [//]: # (Image References)
 
-[image]: Pass-certificate.png 
+[image]: ./Pass-certificate.png 
 
 This is the 2nd project in the course of Self-Driving Car at Udacity
 
@@ -16,7 +16,8 @@ The goals / steps of this project are the following:
 * Detect lane pixels and fit to find the lane boundary.
 * Determine the curvature of the lane and vehicle position with respect to center.
 * Warp the detected lane boundaries back onto the original image.
-* Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+* Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position
+* Output video with lane lines detected drawn
  
  For more details, check [Project-Writeup.md](./Project-Writeup.md)
  
