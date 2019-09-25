@@ -7,7 +7,7 @@
 
 This is the 2nd project in the course of Self-Driving Car at Udacity
 
-The goals / steps of this project are the following: (more details in Project-README.md)
+The goals / steps of this project are the following: 
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
@@ -17,5 +17,7 @@ The goals / steps of this project are the following: (more details in Project-RE
 * Determine the curvature of the lane and vehicle position with respect to center.
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+ 
+ For more details, check [Project-Writeup.md](./Project-Writeup.md)
  
  ![alt text][image]
