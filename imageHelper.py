@@ -1,7 +1,6 @@
 import numpy as np
 import cv2
 
-
 def cal_undistort(img, mtx, dist):
     """undistort image"""
     undist= cv2.undistort(img, mtx, dist, None, mtx)   
