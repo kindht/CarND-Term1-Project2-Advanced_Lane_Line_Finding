@@ -1,11 +1,12 @@
-# 无人驾驶纳米学位 - 项目2 - 高级车道线检测
+# 无人驾驶(纳米学位) - 项目2 - 高级车道线检测
 # CarND-Project2-Advanced_Lane_Line_Finding
 
 [//]: # (Image References)
+[image1.1]: ./examples/example.gif
+[image1.2]: ./examples/example.png
+[image2]: ./Pass-certificate.png 
 
-[image]: ./Pass-certificate.png 
-
-This is the 2nd project in the course of Self-Driving Car at Udacity
+This is the 2nd project for the **Self-Driving Car Engineer** Nanodegree program at [Udacity](https://cn.udacity.com/course/self-driving-car-engineer--nd013)
 
 The goals / steps of this project are the following: 
 
@@ -19,6 +20,27 @@ The goals / steps of this project are the following:
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position
 * Output video with lane lines detected drawn
  
- For more details, check [Project-Writeup.md](./Project-Writeup.md)
+ Here is the Project file [Proj2-Adv-LaneLines.ipynb](./Proj2-Adv-LaneLines.ipynb)   
+ Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file  
  
- ![alt text][image]
+ Helper files where useful functions are implemented:
+ - [imageHelper.py](./imageHelper.py)  
+ - [laneHelper.py](./laneHelper.py)  
+
+ 
+ Here is my  [Project Report/Writeup](./Project-Writeup.md)   
+ Learn about [Project Requirements](./Project-README.md)
+ 
+---
+#### Example output 
+[output video - Adv_out_video.mp4](./Adv_out_video.mp4)  
+
+&nbsp;&nbsp; &nbsp;&nbsp;![alt text][image1.1]
+![alt text][image1.2]
+
+
+
+
+---
+#### Certificate for the Project Completion
+![alt text][image2]
