@@ -122,7 +122,6 @@ def find_lane_pixels_byPoly(binary_warped, fits):
     return leftx, lefty, rightx, righty    
 
 
-
 def fit_poly(img_shape, leftx, lefty, rightx, righty):
     ### Fit a second order polynomial to each with np.polyfit() 
     left_fit = np.polyfit(lefty, leftx, 2)
