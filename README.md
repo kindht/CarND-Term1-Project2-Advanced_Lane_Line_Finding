@@ -1,10 +1,6 @@
 # 无人驾驶(纳米学位)-第一学期-项目2-高级车道线检测
 # CarND-Term1-Project2-Advanced_Lane_Line_Finding
 
-[//]: # (Image References)
-[image1.1]: ./examples/example.gif
-[image1.2]: ./examples/example.png
-[image2]: ./Pass-certificate.png 
 
 This is the 2nd project in Term 1 for the **Self-Driving Car Engineer** Nanodegree program at [Udacity](https://cn.udacity.com/course/self-driving-car-engineer--nd013)
 
@@ -35,12 +31,11 @@ The goals / steps of this project are the following:
 #### Example output 
 [output video - Adv_out_video.mp4](./Adv_out_video.mp4)  
 
-&nbsp;&nbsp; &nbsp;&nbsp;![alt text][image1.1]
-![alt text][image1.2]
 
-
+![](./examples/example.gif)
+![](./examples/example.png)
 
 
 ---
 #### Certificate for the Project Completion
-![alt text][image2]
+![](./Pass-certificate.png )
