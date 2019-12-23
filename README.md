@@ -38,4 +38,4 @@ The goals / steps of this project are the following:
 
 ---
 #### Certificate for the Project Completion
-![](Pass.png )
+![](Pass-certificate.png)
