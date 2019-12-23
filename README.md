@@ -32,10 +32,10 @@ The goals / steps of this project are the following:
 [output video - Adv_out_video.mp4](./Adv_out_video.mp4)  
 
 
-![](./examples/example.gif)
-![](./examples/example.png)
+![](examples/example.gif)
+![](examples/example.png)
 
 
 ---
 #### Certificate for the Project Completion
-![](./Pass-certificate.png )
+![](Pass-certificate.png )
